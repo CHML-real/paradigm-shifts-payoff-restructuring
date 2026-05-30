@@ -126,7 +126,7 @@ Four disconfirming cases are explicitly included and analyzed:
 
 This meta-analysis was undertaken as a companion to:
 
-> lajjadred & Chae Mun Lee (2026). *Beyond Deductive Machinery: Why LLMs Cannot Generate Truly Novel Conclusions.* Zenodo. https://doi.org/10.5281/zenodo.20324204
+> lajjadred (2026). *Beyond Deductive Machinery: Why LLMs Cannot Generate Truly Novel Conclusions.* Zenodo. https://doi.org/10.5281/zenodo.20324204
 
 The parent paper argues that LLMs are structurally incapable of generating genuinely novel conclusions because they lack:
 1. Physical indeterminacy at the hardware level
@@ -143,7 +143,7 @@ The present study provides empirical support for **claim (3)'s evaluative dimens
 @misc{lajjadred2026paradigm,
   title     = {Paradigm Shifts as Payoff Restructuring: A Game-Theoretic Meta-Analysis 
                of Scientific Revolutions and Its Implications for Cognitive Novelty},
-  author    = {lajjadred and {Chae Mun Lee}},
+  author    = { {Chae Mun Lee} and lajjadred },
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.20459277},
