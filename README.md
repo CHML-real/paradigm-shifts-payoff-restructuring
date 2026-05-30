@@ -1,7 +1,7 @@
 # Paradigm Shifts as Payoff Restructuring
 ## A Game-Theoretic Meta-Analysis of Scientific Revolutions and Its Implications for Cognitive Novelty
 
-**Authors:** lajjadred | Chae Mun Lee  
+**Authors:** Chae Mun Lee | lajjadred 
 **Year:** 2026  
 **Status:** Preprint  
 **DOI:** [10.5281/zenodo.20459277](https://doi.org/10.5281/zenodo.20459277)  
